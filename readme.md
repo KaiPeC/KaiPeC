@@ -1,0 +1,5 @@
+-👋 Olá, eu sou Kaique.
+-👀 Sou interessado por Dados em geral, porem hoje minha melhor proeficiencia é na frente de Engenharia.
+-🌱 Atualmente estou aprendendo sobre DataOps.
+-💞️ Se precisar de ajuda em Python, Pyspark e JS podem me chamar.
+-📫 Você me encontra no e-mail kaique.borges0903@gmail.com.
